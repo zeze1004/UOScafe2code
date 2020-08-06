@@ -44,6 +44,7 @@ See this page on https://gunhoflash.github.io/UOScafe2code/.
 * [탐앤탐스](./data/hoegi_station/tomntoms.md)(★★☆☆☆) - 코딩하기 좋지 않다.
 * [랭스터디카페](./data/hoegi_station/langstudycafe.md)(★★★★★) - 8000원의 행복(9n년생이라면 만원의 행복 rgrg?)
 * [thestudy](./data/hoegi_station/thestudy.md)(★★★☆☆) - 새벽에 공부하러 오기 좋다.(낮에 오면 사람이 너무 많기에...)
+ㅇ* [Starbucks - 경희대점](./data/hoegi_station/starbucks_khu.md)(★★★☆☆)
 
 ### 경희대
 
@@ -51,6 +52,7 @@ See this page on https://gunhoflash.github.io/UOScafe2code/.
 	+ [De Chocolate, COFFEE &](./data/khu/jeongmoon/de_chocolate.md)(★★★★☆) - 코딩하기 적합한 인터넷과 콘센트, 초코까지!
 	+ [EDIYA - 경희대삼거리점](./data/khu/jeongmoon/ediya.md)(★★★★☆) - 공간 대비 자리가 꽤 많은 카페
 	+ [Eins](./data/khu/jeongmoon/eins.md)(★★★★☆) - 어느 시간대에 와도 아늑한 곳
-	+ [Starbucks - 경희대삼거리점](./data/khu/jeongmoon/starbucks.md)(★★★★☆) - B1~4층짜리 거대 스타벅스. 시립대에는 왜 없지?
+	+ [Starbucks - 경희대삼거리점](.data\khu\jeongmoon\starbucks_khu.md)(★★☆☆☆) - 콘센트 수도 적고 와이파이도 자주 끊긴다.
+
 	+ [The Coffee Bean - 경희대점](./data/khu/jeongmoon/the_coffee_bean.md)(★★★☆☆) - 너무 멀어서 자주 안 가봤다..!
 	
